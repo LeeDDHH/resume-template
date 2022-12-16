@@ -1,0 +1,11 @@
+{
+  "name": "resume-template",
+  "version": "1.0.0",
+  "description": "resume template",
+  "scripts": {
+    "lint": "",
+    "build": ""
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
