@@ -89,7 +89,6 @@
     "@proofdict/proofdict": {
       "dictURL": "https://azu.github.io/proof-dictionary/"
     },
-    "spellcheck-tech-word": true,
     "period-in-list-item": true,
     "ja-hiragana-keishikimeishi": true,
     "ja-hiragana-fukushi": true,
