@@ -2,7 +2,7 @@
   "rules": {
     "preset-ja-technical-writing": {
       "sentence-length": {
-        "max": 100
+        "max": 125
       },
       "max-comma": {
         "max": 3
