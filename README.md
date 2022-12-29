@@ -15,7 +15,7 @@
 ## Data
 
 - [PDF](https://github.com/{name}/resume/releases)
-- [File](https://github.com/{name}/resume/blob/master/docs/README.md)
+- [File](https://github.com/{name}/resume/blob/main/resume/README.md)
 
 ## Make Icon
 
