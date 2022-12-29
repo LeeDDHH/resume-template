@@ -5,7 +5,7 @@
 [![create issue](https://img.shields.io/github/workflow/status/{name}/resume/create%20issue?label=create%20issue&logo=github&color=orange)](https://github.com/{name}/resume/actions?query=workflow%3A%22create+issue%22)
 [![release date](https://img.shields.io/github/release-date/{name}/resume?color=blue&logo=github)](https://github.com/{name}/resume/releases)
 
-[ [English](https://github.com/{name}/resume/blob/main/README.en.md) | 日本語 ]
+[ 日本語 | [English](https://github.com/{name}/resume/blob/main/README.en.md) ]
 
 ## Sample
 
