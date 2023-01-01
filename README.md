@@ -7,6 +7,14 @@
 
 [ 日本語 | [English](https://github.com/{name}/resume/blob/main/README.en.md) ]
 
+## Usage
+
+- 使用する際、リポジトリ内の `{name}` を自分の GitHub の ID に置き換える
+  - 変更箇所
+    - `README.md`
+    - `README.en.md`
+- `.github/issue_template.md` の `assignees` に自分の GitHub の ID を記載する
+
 ## Sample
 
 - 自分の GitHub の ID が `LeeDDHH` の場合

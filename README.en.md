@@ -7,6 +7,14 @@
 
 [ [日本語](https://github.com/{name}/resume/blob/main/README.md) | English ]
 
+## Usage
+
+- Before using, replace `{name}` in the repository with your GitHub ID
+  - file to change
+    - `README.md`
+    - `README.en.md`
+- Add your GitHub ID to `assignees` in `.github/issue_template.md`
+
 ## Sample
 
 - If your GitHub ID is `LeeDDHH`
